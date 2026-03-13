@@ -1,6 +1,6 @@
 # Mini-shell
 
-Interpreteur de ligne de commande sous le systeme linux.
+Mini interpreteur de ligne de commande sous le systeme linux.
 
 <strong> NB: </strong> l'utilisation de <strong> WFL </strong> est suffisante pour executer ce programme.
 
